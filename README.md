@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @mukithyder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mukithyder/mukithyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Mukit Hyder
+### 📊Aspiring Data Analyst & Business Intelligence Analyst
+### 💼Background in business , marketing and brand management
+### 🧑‍💻Learning SQL, R, Python and tableau
